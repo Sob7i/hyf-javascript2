@@ -1,0 +1,34 @@
+body {
+
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1 {
+
+    font-size: 5em;
+    font-style: oblique;
+    font-family: cursive;
+
+}
+
+
+ul{
+    padding: 0px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+  
+
+}
+
+li {
+
+    margin-top: 20px;
+    padding-top: 7px;
+    width: 100%;
+
+}
